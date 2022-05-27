@@ -1,1 +1,3 @@
-# codecademy_Classify_X-rays_With_Machine_Learning
+# Classify X-rays With Machine Learning
+
+My effort for codecademy classification challange project
